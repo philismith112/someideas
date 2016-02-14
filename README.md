@@ -1,0 +1,2 @@
+# someideas
+Just another repository
